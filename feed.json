@@ -1,0 +1,22 @@
+{
+  "updatedAt": null,
+  "posts": [],
+  "sources": {
+    "youtube": {
+      "state": "needs_config",
+      "message": "尚未设置 YouTube 频道 ID"
+    },
+    "instagram": {
+      "state": "not_connected",
+      "message": "Instagram 暂未接入"
+    },
+    "x_kr": {
+      "state": "not_connected",
+      "message": "X 暂未接入"
+    },
+    "x_jp": {
+      "state": "not_connected",
+      "message": "X 暂未接入"
+    }
+  }
+}
