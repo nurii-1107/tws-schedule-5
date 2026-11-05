@@ -1,1 +1,87 @@
-{"updatedAt":null,"source":"https://tws-official.jp/schedule","events":[]}
+{
+  "updatedAt": "2026-11-05T19:11:09.444547+00:00",
+  "source": "https://tws-official.jp/schedule",
+  "events": [
+    {
+      "id": "jp-2026-12-27-83392f65cb4f",
+      "date": "2026-12-27",
+      "title": "TBSチャンネル1 『2026 TWS TOUR '24/7:FOR:YOU' IN JAPAN 全曲ノーカット版』",
+      "category": "TV",
+      "member": "团体",
+      "url": "https://tws-official.jp/schedule",
+      "source": "TWS 日本官网"
+    },
+    {
+      "id": "jp-2026-10-08-5fa6c7dbdc81",
+      "date": "2026-10-08",
+      "title": "『FINEBOYS』11月号 ※KYUNGMIN",
+      "category": "MAGAZINE",
+      "member": "李炅潣",
+      "url": "https://tws-official.jp/schedule",
+      "source": "TWS 日本官网"
+    },
+    {
+      "id": "jp-2026-09-25-6860e6ed4fdf",
+      "date": "2026-09-25",
+      "title": "KBC九州朝日放送「アサデス。KBC」",
+      "category": "TV",
+      "member": "团体",
+      "url": "https://tws-official.jp/schedule",
+      "source": "TWS 日本官网"
+    },
+    {
+      "id": "jp-2026-09-19-6b82a252ddb8",
+      "date": "2026-09-19",
+      "title": "読売テレビ「音道楽√」",
+      "category": "TV",
+      "member": "团体",
+      "url": "https://tws-official.jp/schedule",
+      "source": "TWS 日本官网"
+    },
+    {
+      "id": "jp-2026-09-16-b6a9d0229141",
+      "date": "2026-09-16",
+      "title": "『TV LIFE 19号』※TWSが裏表紙に登場",
+      "category": "MAGAZINE",
+      "member": "团体",
+      "url": "https://tws-official.jp/schedule",
+      "source": "TWS 日本官网"
+    },
+    {
+      "id": "jp-2026-09-09-61a72ca3dd8c",
+      "date": "2026-09-09",
+      "title": "TBS系「よるのブランチ」",
+      "category": "TV",
+      "member": "团体",
+      "url": "https://tws-official.jp/schedule",
+      "source": "TWS 日本官网"
+    },
+    {
+      "id": "jp-2026-09-07-4fed2ce7c8c8",
+      "date": "2026-09-07",
+      "title": "ニッポン放送「大沢あかね LUCKY 7 supported by 犬塚製作所」",
+      "category": "RADIO",
+      "member": "团体",
+      "url": "https://tws-official.jp/schedule",
+      "source": "TWS 日本官网"
+    },
+    {
+      "id": "jp-2026-08-31-974e2d09fba8",
+      "date": "2026-08-31",
+      "title": "FBS福岡放送「バリはやッ！」",
+      "category": "TV",
+      "member": "团体",
+      "url": "https://tws-official.jp/schedule",
+      "source": "TWS 日本官网"
+    },
+    {
+      "id": "jp-2026-08-28-77d901cd1c37",
+      "date": "2026-08-28",
+      "title": "日本テレビ系「バズリズム02」",
+      "category": "TV",
+      "member": "团体",
+      "url": "https://tws-official.jp/schedule",
+      "source": "TWS 日本官网"
+    }
+  ]
+}
